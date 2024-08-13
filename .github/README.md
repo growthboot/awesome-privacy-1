@@ -3364,6 +3364,12 @@ interface as well as a CLI. Shiori has easy import/ export, is portable and has 
 > It has a beautiful UI, good data controls and some very handy integrations and features.
 > Available on desktop, mobile, web and through a browser extension.
 > The catch is that it is not open source, there is a free and premium plan, but no option for self-hosting.
+>
+> 
+> [WebCull](https://webcull.com) is a zero-trust compliant bookmark manager featuring a complete end-to-end encryption system.
+> It has advanced features like a powerful local-only search engine, a long list of sorting algorithms, and many more advanced capabilities.
+> Available as a browser extension on Firefox and Chrome based browser as well as a web-app.
+> Not open-source, there is a free and premium plan and no option for self-hosting.
 > </details>
 
 <p align="right"><sup><a href="#top">⬆️ [Back to Top]</a></sub></p>
