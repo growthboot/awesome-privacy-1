@@ -3350,15 +3350,6 @@ categories:
           Secure, anonymous and free browser and bookmark syncing. Easy to setup, and no sign up is required, you can
           either use a community-run sync server, or host your own with their docker image. Extensions are available for
           Chrome, Firefox, and on Android.
-
-      - name: WebCull
-        url: https://www.webcull.com
-        github: xbrowsersync/app
-        description: |
-          Secure, anonymous and free browser and bookmark syncing. Easy to setup, and no sign up is required, you can
-          either use a community-run sync server, or host your own with their docker image. Extensions are available for
-          Chrome, Firefox, and on Android.
-
       - name: Unmark
         url: https://unmark.it
         github: cdevroe/unmark
